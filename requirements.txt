@@ -1,0 +1,14 @@
+flask
+requests
+pandas
+numpy
+langchain
+openai
+python-dotenv
+plotly
+pandas-ta
+python-binance
+ccxt
+ta
+python-dateutil
+pytz
