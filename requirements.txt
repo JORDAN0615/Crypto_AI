@@ -12,3 +12,5 @@ ccxt
 ta
 python-dateutil
 pytz
+bs4
+langchain_community
